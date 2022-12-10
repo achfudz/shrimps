@@ -1,0 +1,83 @@
+{
+  "shrimps": [
+    {
+      "id": 1,
+      "Image": "assets/images/Image/cokelat.png",
+      "name": "Udang Cokelat",
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "ordo": "Decapoda",
+      "family": "Penaeidae",
+      "genus": "Penaeus",
+      "species": "P. monodon",
+      "description": "Udang cokelat adalah jenis udang yang paling disukai dan populer di Amerika, banyak ditemukan di sepanjang pantai timur perairan Teluk Meksiko. Karakteristik udang cokelat mempunyai tekstur keras, cangkang yang berwarna merah kecokelatan serta memiliki cita rasa perpaduan manis dan asin. \n Sama seperti udang umumnya, ketika dimasak, udang cokelat akan berubah jadi merah muda. Biasanya, udang ini diolah dengan cara direbus atau dikukus agar dapat menikmati cita rasa alami udang cokelat. Panen udang cokelat biasanya dilakukan pada bulan Juni hingga Agustus."
+    },
+    {
+      "Image": "assets/images/Image/vaname.png",
+      "name": "Udang Vaname",
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "ordo": "Decapoda",
+      "family": "Penaeidae",
+      "genus": "Litopenaeus",
+      "species": "L. vannamei",
+      "description": "Vaname atau sering juga disebut whiteleg ini dapat dikembangbiakan dengan budidaya. Ketika diolah, vaname akan menyuguhkan daging yang empuk dan juga lezat. \n Proses budidayanya pun tidak membutuhkan waktu yang lama. Sehingga memang banyak dijadikan sebagai bahan makanan dan diolah menjadi berbagai hidangan lezat. Vaname bisa digoreng dengan tepung, dijadikan saus mentega, ditumis dan berbagai hidangan lezat lainnya. ",
+      "id": 2
+    },
+    {
+      "Image": "assets/images/Image/dogol.png",
+      "name": "Udang Dogol",
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "ordo": "Decapoda",
+      "family": "Pandaliidae",
+      "genus": "Pandalus",
+      "species": "P. borealis",
+      "description": "Dogol atau yang dikenal dengan nama ‘pink shrimp’ memiliki warna khas merah muda kekuningan. Untuk ukuran sendiri, dogol biasanya berukuran kecil. \n Cara menikmati dogol yang paling mudah adalah dengan mengolahnya menjadi udang dogol goreng tepung. Ukurannya yang kecil membuatnya renyah dan krispi saat digoreng. Meski demikian tekstur daging yang empuk dan lezat tetap bisa dirasakan. Dogol juga bisa diolah menjadi hidangan berbumbu lainnya. ",
+      "id": 3
+    },
+    {
+      "Image": "assets/images/Image/jerbung.png",
+      "name": "Udang Jerbung",
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "ordo": "Decapoda",
+      "family": "Dendrobranchiata",
+      "genus": "Fenneropenaeus",
+      "species": "F. indicus",
+      "description": "Pernah mendengar nama udang jerbung? Karakteristik jenis udang ini memiliki permukaan kulit tipis dan licin berwarna putih kekuningan yang ada bintik bintik hijau. Panjang tubuhnya bisa mencapai 20 cm dengan tekstur tubuh padat. \n Udang jerbung bisa diolah dengan digoreng, dipanggang, direbus atau dikukus untuk mempertahankan cita rasa alaminya. Karena permukaan kulitnya yang tipis, udang jerbung kurang cocok jika dimakan dengan cara dibakar, akan mudah gosong. Ada tiga varietas udang jerbung, yakni Pacific white, Chinese white dan Gulf white.",
+      "id": 4
+    },
+    {
+      "Image": "assets/images/Image/lobster.png",
+      "name": "Lobster",
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "ordo": "Decapoda",
+      "family": "Nephropidae",
+      "genus": "Homarus",
+      "species": "H. americanus",
+      "description": "Jenis lobster cukup popular di Indonesia. Biasanya lobster sering dihidangkan menjadi makanan istimewa di restoran mewah atau hotel berbintang. Maka kelezatannya tidak perlu lagi diragukan. \n Lobster biasanya berukuran besar, beratnya bisa mencapai 2 kg per ekor. Untuk pengolahannya, lobster ini bisa dimasak menjadi berbagai jenis olahan. Seperti asam manis, saus padang, saus mentega, saos tiram, lada hitam dan masih banyak lagi.",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "username": "fudz",
+      "email": "mahfud@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "fud",
+      "email": "fud@gmail.com",
+      "password": "123",
+      "id": 2
+    }
+  ]
+}
